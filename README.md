@@ -1,10 +1,11 @@
 # php_permutations
-
 PHP generate permutations
 
 ## Requirements
-
 * PHP >= 5.6
+
+## License
+MIT
 
 ## How to use
 ```php
