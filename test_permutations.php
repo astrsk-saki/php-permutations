@@ -3,12 +3,8 @@ require('permutations.php');
 
 function print_result($result)
 {
-    foreach($result as $k => $case){
-        print($k.' => ');
-        foreach($case as $c){
-            print($c);
-        }
-        print("\n");
+    foreach($result as $k => $v){
+        print($k.' => ' . implode(',', $v) . "\n");
     }
 }
 
