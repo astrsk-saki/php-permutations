@@ -5,7 +5,7 @@ PHP generate permutations
 * PHP >= 5.6
 
 ## License
-MIT
+* MIT
 
 ## How to use
 ```php
