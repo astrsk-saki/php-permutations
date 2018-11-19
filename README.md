@@ -9,7 +9,7 @@ PHP generate permutations
 
 ## How to use
 ```php
-permutations($list, $num) : array
+permutations($list, $length) : array
 
 /**
  * param
