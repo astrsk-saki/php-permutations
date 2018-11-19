@@ -1,4 +1,4 @@
-# php_permutations
+# php-permutations
 PHP generate permutations
 
 ## Requirements
@@ -13,8 +13,8 @@ permutations($list, $num) : array
 
 /**
  * param
- *   $list : dataset
- *   $num  : length
+ *   $list   : dataset
+ *   $length : length
  * return
  *   array(array())
  */
