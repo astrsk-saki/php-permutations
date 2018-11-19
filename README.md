@@ -2,7 +2,7 @@
 PHP generate permutations
 
 ## Requirements
-* PHP >= 5.6
+* PHP >= 5.4
 
 ## License
 * MIT
